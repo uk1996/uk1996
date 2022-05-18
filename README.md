@@ -12,6 +12,7 @@ Main:
 <div>
 Beginner level: 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-35BDB2?style=flat-square&logo=React&logoColor=white"/>
 </div>
 
 <div>
